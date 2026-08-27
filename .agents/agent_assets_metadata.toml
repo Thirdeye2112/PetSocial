@@ -1,0 +1,13 @@
+uploads = []
+
+[[generated]]
+id = "CjbnHJlQaWo5WzULTXGh5"
+uri = "file://artifacts/animal-chat-mobile/assets/images/icon.png"
+type = "image"
+title = "generated_image"
+
+[[outputs]]
+id = "v6r0mFUqC97X6KMhEdijA"
+uri = "file://TECHNICAL.md"
+type = "text"
+title = "PetSocial — Technical Overview"
